@@ -1,7 +1,8 @@
 # codewars
-Minhas soluções em Node.js de algumas questões no Codewars
+Minhas soluções em Node.js de algumas questões no Codewars:
 
-Multiply - https://www.codewars.com/kata/50654ddff44f800200000004
+
+Multiply - https://www.codewars.com/kata/50654ddff44f800200000004 /n
 Bit Couting - https://www.codewars.com/kata/526571aae218b8ee490006f4
 Sort and Star - https://www.codewars.com/kata/57cfdf34902f6ba3d300001e
 Duplicate Enconder - https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
