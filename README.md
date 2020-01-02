@@ -20,4 +20,15 @@ Where my anagrams at? - https://www.codewars.com/kata/523a86aa4230ebb5420001e1 \
 Moving Zeros To The End - https://www.codewars.com/kata/52597aa56021e91c93000cb0 \
 Sum of differences in array - https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e \
 Do I get a bonus? - https://www.codewars.com/kata/56f6ad906b88de513f000d96 \
-5 without numbers !! - https://www.codewars.com/kata/59441520102eaa25260000bf
+5 without numbers !! - https://www.codewars.com/kata/59441520102eaa25260000bf \
+Draw stairs - https://www.codewars.com/kata/5b4e779c578c6a898e0005c5 \
+For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre - https://www.codewars.com/kata/582dafb611d576b745000b74 \
+Reversed Strings - https://www.codewars.com/kata/5168bb5dfe9a00b126000018 \
+I love you, a little , a lot, passionately ... not at all - https://www.codewars.com/kata/57f24e6a18e9fad8eb000296 \
+Calculate BMI - https://www.codewars.com/kata/57a429e253ba3381850000fb \
+get character from ASCII Value - https://www.codewars.com/kata/55ad04714f0b468e8200001c
+Area of a Square - https://www.codewars.com/kata/5748838ce2fab90b86001b1a \
+Multiple of index - https://www.codewars.com/kata/5a34b80155519e1a00000009 \
+Convert a string to an array - https://www.codewars.com/kata/57e76bc428d6fbc2d500036d \
+Enumerable Magic #25 - Take the First N Elements - https://www.codewars.com/kata/545afd0761aa4c3055001386 \
+101 Dalmatians - squash the bugs, not the dogs! - https://www.codewars.com/kata/56f6919a6b88de18ff000b36
