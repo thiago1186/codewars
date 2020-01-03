@@ -31,4 +31,15 @@ Area of a Square - https://www.codewars.com/kata/5748838ce2fab90b86001b1a \
 Multiple of index - https://www.codewars.com/kata/5a34b80155519e1a00000009 \
 Convert a string to an array - https://www.codewars.com/kata/57e76bc428d6fbc2d500036d \
 Enumerable Magic #25 - Take the First N Elements - https://www.codewars.com/kata/545afd0761aa4c3055001386 \
-101 Dalmatians - squash the bugs, not the dogs! - https://www.codewars.com/kata/56f6919a6b88de18ff000b36
+101 Dalmatians - squash the bugs, not the dogs! - https://www.codewars.com/kata/56f6919a6b88de18ff000b36 \
+Find the Integral - https://www.codewars.com/kata/59811fd8a070625d4c000013 \
+Grasshopper - Personalized Message - https://www.codewars.com/kata/5772da22b89313a4d50012f7 \
+A wolf in sheep's clothing - https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15 \
+Swap Values - https://www.codewars.com/kata/5388f0e00b24c5635e000fc6 \
+Keep Hydrated! - https://www.codewars.com/kata/582cb0224e56e068d800003c \
+Remove First and Last Character - https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0 \
+Surface Area and Volume of a Box - https://www.codewars.com/kata/565f5825379664a26b00007c \
+A Strange Trip to the Market - https://www.codewars.com/kata/55ccdf1512938ce3ac000056 \
+altERnaTIng cAsE <=> ALTerNAtiNG CaSe - https://www.codewars.com/kata/56efc695740d30f963000557 \
+My head is at the wrong end! - https://www.codewars.com/kata/56f699cd9400f5b7d8000b55
+
