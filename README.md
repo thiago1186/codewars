@@ -41,5 +41,6 @@ Remove First and Last Character - https://www.codewars.com/kata/56bc28ad5bdaeb48
 Surface Area and Volume of a Box - https://www.codewars.com/kata/565f5825379664a26b00007c \
 A Strange Trip to the Market - https://www.codewars.com/kata/55ccdf1512938ce3ac000056 \
 altERnaTIng cAsE <=> ALTerNAtiNG CaSe - https://www.codewars.com/kata/56efc695740d30f963000557 \
-My head is at the wrong end! - https://www.codewars.com/kata/56f699cd9400f5b7d8000b55
+My head is at the wrong end! - https://www.codewars.com/kata/56f699cd9400f5b7d8000b55 \
+Is Integer Array ? - https://www.codewars.com/kata/52a112d9488f506ae7000b95 
 
