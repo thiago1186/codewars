@@ -42,5 +42,13 @@ Surface Area and Volume of a Box - https://www.codewars.com/kata/565f5825379664a
 A Strange Trip to the Market - https://www.codewars.com/kata/55ccdf1512938ce3ac000056 \
 altERnaTIng cAsE <=> ALTerNAtiNG CaSe - https://www.codewars.com/kata/56efc695740d30f963000557 \
 My head is at the wrong end! - https://www.codewars.com/kata/56f699cd9400f5b7d8000b55 \
-Is Integer Array ? - https://www.codewars.com/kata/52a112d9488f506ae7000b95 
+Is Integer Array ? - https://www.codewars.com/kata/52a112d9488f506ae7000b95 \
+Return String As Sorted Blocks - https://www.codewars.com/kata/5e0f6a3a2964c800238ca87d \
+Sum of Digits / Digital Root - https://www.codewars.com/kata/541c8630095125aba6000c00 \
+Trim a String - https://www.codewars.com/kata/526e8de0512511429e000006 \
+Search in multidimensional array - https://www.codewars.com/kata/52840d2b27e9c932ff0016ae \
+Collatz - https://www.codewars.com/kata/5286b2e162056fd0cb000c20 \
+Normalizing Out of Range Array Indexes - https://www.codewars.com/kata/5285bf61f8fc1b181700024c \
+Find the Mine! - https://www.codewars.com/kata/528d9adf0e03778b9e00067e \
+Simple Sentences - https://www.codewars.com/kata/5297bf69649be865e6000922 
 
